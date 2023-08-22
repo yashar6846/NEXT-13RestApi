@@ -17,4 +17,18 @@ const config: Config = {
   },
   plugins: [],
 }
+
+module.exports ={
+  content: ["./app/**/*.{js,ts,jsx,tsx}", "./components/**/*.{js,ts,jsx,tsx}"],
+  theme:{
+    screens:{
+    xs: "300px",
+    sm: "640px",
+    md: "768px",
+    lg: "1080px",
+    xl: "1280px",
+    ["2x1"]: "1530px",
+    }
+  }
+}
 export default config

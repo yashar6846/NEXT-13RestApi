@@ -3,3 +3,15 @@
 @tailwind utilities;
 
 
+@layer base {
+  h5{
+    font-family: monospace ;
+  }
+}
+
+@layer utilities {
+  .font-cursive{
+    font-family: cursive ;
+  }
+}
+
