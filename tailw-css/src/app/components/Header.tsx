@@ -21,8 +21,8 @@ export default function Header() {
       </div>
    </div> 
 
-  <div className="p-5 m-3">
-  <section className="grid gap-8 sm:max-xl:bg-blue-50 md:grid-cols-2 md:items-center md:text-left">
+  <div className="p-4 m-3">
+  <section className="grid gap-8 sm:max-xl:bg-blue-50 md:grid-cols-2 md:items-center md:text-left sm:max-xl:p-9">
    <div>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvimPzwOXCXDCFyo4gygMnyo_C3kJ6XoGCDQ&usqp=CAU" 
     alt=""
