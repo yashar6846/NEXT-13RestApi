@@ -25,3 +25,7 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+/* .card { 
+  @apply mb-5 block  reunded-lg border border-gray-200 shadow-md
+} */
