@@ -4,6 +4,6 @@
 
 @layer components {
     .icon__wrapper{
-        @apply border border-gray-400 rounded-full w-[50px] grid place-items-center text-[22px]
+        @apply border border-gray-400 rounded-full h-[50px] w-[50px] grid place-items-center text-[22px]
     }
 }
