@@ -8,6 +8,7 @@ export default function Hero() {
 
                 <img className="md:w-1/4 xs:w-3/4 w-1/4 shadow-lg hover:shadow-2xl" src="https://media.istockphoto.com/id/1040315976/tr/foto%C4%9Fraf/manzaraya-bir-ma%C4%9Fara-matera-basilicata-italya-arayan-kad%C4%B1n.jpg?s=612x612&w=0&k=20&c=O6e6DlYrciQQqBKaiCf7lFXJrdwjNIRjNgtDFQYhTjk=" alt="Img1" />
             </div>
+
         </div>
     </div>
   )

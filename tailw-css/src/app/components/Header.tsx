@@ -34,6 +34,7 @@ export default function Header() {
    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nam nisi minus neque similique eligendi, sequi quidem fugiat. Id ab debitis aliquid nihil omnis impedit, pariatur totam libero, natus adipisci unde?</p>
    </div>
    </section>
+   
   </div>
    </>
   )
