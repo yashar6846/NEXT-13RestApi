@@ -3,11 +3,15 @@ import Link from "next/link"
 import Author from "./-child/Author"
 
 const Section = () => {
-  return (
-    <section className="py-16">
-      <div className="container mx-auto md:-px-20">
-        <h1 className="font-bold text-4xl pb-12 text-center">Translete</h1>
 
+    const bg ={
+        background:"url('/images/banner2.jpg')no-repeat",
+        backgroundPosition: "right"
+    }
+  return (
+    <section className="py-16" style={bg}>
+      <div className="container mx-auto md:-px-20">
+        <h1 className="font-bold text-4xl pb-12 text-center ">Translete</h1>
         {Slide()}
       </div>
     </section>
