@@ -11,7 +11,9 @@ export default function Filter() {
 
         <h1 className='text-2xl'>Hello</h1>
         <p className='mb-4'>This is my div</p>
-        <button className='px-3 py-2 text-white rounded-lg shadow cursor-pointer bg-cyan-500 shadow-cyan-500/50'>say hello</button>
+        <button class="transition ease-in-out delay-150 bg-blue-500 hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 duration-300 ...">
+  Save Changes
+</button>
         </div>
     </div>
   )

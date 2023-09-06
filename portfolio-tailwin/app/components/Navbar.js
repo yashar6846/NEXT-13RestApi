@@ -3,6 +3,7 @@ import Image from 'next/image'
 import Link from 'next/link';
 import {FaArtstation,FaWarehouse } from "react-icons/fa";
 
+
 export default function Navbar() {
   return (
     <div className='w-full shadow-navbarShadow h-20 lg:h-[12vh] sticky top-0 z-50 px-4 bg-green-500'>
@@ -18,6 +19,7 @@ export default function Navbar() {
          </ul>
          </div>
       </div>
+    
     </div>
   )
 }
